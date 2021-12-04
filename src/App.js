@@ -12,6 +12,13 @@ function App() {
     margin-top: 20%;
   `;
 
+  useEffect(() => {
+    setLoading(true);
+    setTimeout(() => {
+      setLoading(false);
+    }, 5000);
+  }, []);
+
   return <div className="App">Cake</div>;
 }
 
