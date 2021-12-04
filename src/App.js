@@ -19,7 +19,13 @@ function App() {
     }, 5000);
   }, []);
 
-  return <div className="App">Cake</div>;
+  return <div className="App">
+  
+    {
+      loading ? <PropagateLoader color={#3d2514} loading={loading} css={override} size={40}/>
+    }
+  
+  </div>;
 }
 
 export default App;
