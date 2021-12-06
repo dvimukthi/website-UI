@@ -9,6 +9,12 @@ function Header() {
           <span>Cake</span> For
           <br /> WEEK
         </h1>
+        <p className="details">cake, cake cake cake cake cake cake cake.</p>
+        <div className="header-btns">
+          <a herf="#" className="header-btn">
+            Order
+          </a>
+        </div>
       </div>
     </div>
   );
