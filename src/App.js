@@ -1,6 +1,7 @@
 import React, { useState, useEffect } from "react";
 import "./App.css";
 import Navbar from "./Components/Navbar";
+import Header from "./Components/Header";
 import { css } from "@emotion/react";
 import PropagateLoader from "react-spinners/PropagateLoader";
 
@@ -31,6 +32,7 @@ function App() {
       ) : (
         <>
           <Navbar />
+          <Header />
         </>
       )}
     </div>
