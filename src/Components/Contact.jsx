@@ -7,6 +7,7 @@ function Contact() {
       <form>
         <input type="text" placeholder="Full Name" />
         <input type="email" placeholder="Type your Email" />
+        <textarea placeholder="Write Here..."></textarea>
       </form>
     </div>
   );
