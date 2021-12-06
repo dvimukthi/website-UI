@@ -6,6 +6,7 @@ function Contact() {
       <h1>Book Your Table</h1>
       <form>
         <input type="text" placeholder="Full Name" />
+        <input type="email" placeholder="Type your Email" />
       </form>
     </div>
   );
