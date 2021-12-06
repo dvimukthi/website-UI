@@ -11,7 +11,9 @@ function Navbar() {
     }
   };
 
-  return <div></div>;
+  window.addEventListener("scroll", changeBackground);
+
+  return <nav></nav>;
 }
 
 export default Navbar;
