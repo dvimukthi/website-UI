@@ -10,8 +10,8 @@ function Header() {
           <br /> WEEK
         </h1>
         <p className="details">
-          At our Bakery, we create each product with best <br />
-          quality ingredients to ensure you <br />
+          At our Bakery, we create each product with <br />
+          best quality ingredients to ensure you <br />
           enjoy your every occasion.
         </p>
         <div className="header-btns">
