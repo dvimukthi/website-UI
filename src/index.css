@@ -335,6 +335,7 @@ nav .menu-btn,
     height: 45px;
     background-color: #f36f22;
     color: #ffffff;
+    font-weight: 600;
     text-transform: uppercase;
 }
 @media(max-width:620px){
