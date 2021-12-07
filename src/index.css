@@ -297,12 +297,13 @@ nav .menu-btn,
 }
 #contact h1{
         font-size: 3.5rem;
-        color:#3d2514;
+        color:#66fa04;
         font-weight: 500;
         margin: 0px;
         padding: 0px;
         font-family: 'Alfa Slab One';
         margin-bottom: 80px;
+        padding-top: 30px;
 }
 #contact form{
     width:600px;
