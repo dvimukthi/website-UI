@@ -9,7 +9,11 @@ function Header() {
           <span>Cake</span> For
           <br /> WEEK
         </h1>
-        <p className="details">cake, cake cake cake cake cake cake cake.</p>
+        <p className="details">
+          At our Bakery, we create each product with best <br />
+          quality ingredients to ensure you <br />
+          enjoy your every occasion.
+        </p>
         <div className="header-btns">
           <a herf="#" className="header-btn">
             Order
