@@ -16,6 +16,7 @@ function Products() {
         <Productbox image={pimage2} title="Chocolate Cake" />
         <Productbox image={pimage3} title="Vanilla Cake" />
         <Productbox image={pimage4} title="Anniversary Cake" />
+        <Productbox image={pimage5} title="Birthday Cake" />
       </div>
     </div>
   );
