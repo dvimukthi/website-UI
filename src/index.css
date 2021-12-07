@@ -127,7 +127,7 @@ nav .menu-btn,
     background-color: #f36f22;
     box-shadow: 5px 10px 30px rgba(185, 92, 4, 0.336);
     border-radius: 5px;
-	color:#ffffff;
+	color:#000000;
 }
 .header-btn:hover{
 	background-color: transparent;
@@ -146,7 +146,7 @@ nav .menu-btn,
     align-items: center;
     justify-content: center;
     padding-top: 40px ;
-    background-color: #ffffff;
+    background-color: #eea046;
 }
 #products h1{
     font-family:'Alfa Slab One';
