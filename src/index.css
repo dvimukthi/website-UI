@@ -222,8 +222,8 @@ nav .menu-btn,
 }.productbox-button:hover{
 	background-color: transparent;
     transition: all ease 0.5s;
-    color: #3d2514;
-    border: 2px solid #3d2514;
+    color: #fc0000;
+    border: 2px solid #a84a07;
 }
 #about{
     margin-top:100px ;
