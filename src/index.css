@@ -151,14 +151,14 @@ nav .menu-btn,
 #products h1{
     font-family:'Alfa Slab One';
     letter-spacing: 2px;
-    color: #3d2514;
+    color: #000000;
     font-size: 3rem;
 }
 #products p{
     font-family:'Bebas Neue';
     letter-spacing: 1px;
-    color: #3d2514;
-    font-size: 0.8rem;
+    color: #853902;
+    font-size: 2rem;
     margin-top:-15px ;
     margin-bottom:35px ;
 }
