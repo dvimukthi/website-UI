@@ -215,8 +215,8 @@ nav .menu-btn,
     align-items: center;
     font-size: 1rem;
     font-family:'Lato';
-    background-color: #bf2222;
-    box-shadow: 5px 10px 30px rgba(255, 103, 2, 0.336);
+    background-color: #f36f22;
+    box-shadow: 5px 10px 30px rgba(243, 79, 3, 0.336);
     border-radius: 5px;
 	color:#ffffff;
 }.productbox-button:hover{
