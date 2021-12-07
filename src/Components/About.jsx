@@ -6,7 +6,10 @@ function About() {
     <div id="about">
       <div className="about-text">
         <h1>Upcoming Event</h1>
-        <p>Lorenwiefiwoehfiwehfiuwehfiewfiuewfuigewiufgewifweifgiewgfiwegfi</p>
+        <p>
+          Celebrate the special moments of your life with a good quality cake
+          and make the day special.
+        </p>
         <button>Read More</button>
       </div>
       <div className="about-image">
