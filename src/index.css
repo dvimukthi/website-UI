@@ -326,6 +326,7 @@ nav .menu-btn,
     outline: none;
     background-color: #f5b892;
     color: #070101;
+    font-weight: 700;
     border-radius: 10px;
 }
 #contact form textarea{
